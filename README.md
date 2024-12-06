@@ -1,1 +1,1 @@
-# Breadcrumbsimg-sliding-with-indicator-and-next-previous-button
+# img-sliding-with-indicator-and-next-previous-button
